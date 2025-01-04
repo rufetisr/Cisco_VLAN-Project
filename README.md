@@ -14,3 +14,5 @@ Two Switches:
 
 Trunk Link:
 A trunk link between the switches is configured using 802.1Q tagging to allow VLAN traffic to pass between them.
+
+![image](https://github.com/user-attachments/assets/2cd79891-46db-46a7-8e4a-c42309f22045)
